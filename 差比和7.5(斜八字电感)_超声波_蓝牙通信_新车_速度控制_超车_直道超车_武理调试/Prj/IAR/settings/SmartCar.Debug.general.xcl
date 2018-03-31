@@ -1,0 +1,17 @@
+"D:\IAR7.8\IAR_ARM_8.1\arm\bin\armproc.dll" 
+
+"D:\IAR7.8\IAR_ARM_8.1\arm\bin\armstlink2.dll" 
+
+"E:\电磁组\IAR\差比和7.5(斜八字电感)_超声波_蓝牙通信_新车_速度控制_超车_直道超车_武理调试\Prj\IAR\Debug\Exe\SmartCar.out" 
+
+--plugin "D:\IAR7.8\IAR_ARM_8.1\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR7.8\IAR_ARM_8.1\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\IAR7.8\IAR_ARM_8.1\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\IAR7.8\IAR_ARM_8.1\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
